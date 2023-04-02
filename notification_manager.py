@@ -2,13 +2,13 @@ import smtplib
 import requests
 from twilio.rest import Client
 
-TWILIO_SID = "AC5006942e4607bdaffd80fc553c2b2c38"
-TWILIO_AUTH_TOKEN = "0f1a039dd47c45504a1635f5cc3d34ef"
-TWILIO_VIRTUAL_NUMBER = "+14028356258"
-TWILIO_VERIFIED_NUMBER = "+380979837220"
+TWILIO_SID =
+TWILIO_AUTH_TOKEN =
+TWILIO_VIRTUAL_NUMBER =
+TWILIO_VERIFIED_NUMBER =
 
-my_email = "hardbassssssssss@gmail.com"
-password = "jsmvcfofibuxyukx"
+my_email =
+password =
 
 class NotificationManager:
 
